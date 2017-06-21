@@ -18,3 +18,7 @@ It would be a lot easier to fix crashes and bugs in the app if the specified fil
 It helps a lot if you could manage to send the files (WITHOUT PRIVATE DATA) and a short explenation of the problem to the following mail address.
 
 Contact: sandro.peham@gmx.at
+
+# Thanks
+
+Thanks to MacHow2 for writing about the app in the blog (https://machow2.com/microsoft-access-mac-open-databases/#Access_Database_Viewer_299_Mac_App_Store).
